@@ -1,7 +1,6 @@
 package b4oop.baitap;
 
 import java.util.Scanner;
-import java.util.function.DoubleToIntFunction;
 
 public class callQuadraticEquation {
 
@@ -15,12 +14,12 @@ public class callQuadraticEquation {
         System.out.println("Input c: ");
         double c = Double.parseDouble(scanner.nextLine());
         QuadraticEquation quadraticEquation = new QuadraticEquation(a, b, c);
-        if(quadraticEquation.getDiscriminant()>0) {
-            System.out.println("The Equation has 2 nghiem la: X1 = " + quadraticEquation.getRoot1() + " and X2= " + quadraticEquation.getRoot2());
-        }else
-            if(quadraticEquation.getDiscriminant()==0){
-            System.out.println("The Equation has 2 nghiem bang nhau la X1=X2= "+quadraticEquation.getRoot1());
-          } else
+        if (quadraticEquation.getDiscriminant() > 0) {
+            System.out.println("The Equation has two roots: X1 = " + quadraticEquation.getRoot1() + " and X2= " +
+                    quadraticEquation.getRoot2());
+        } else if (quadraticEquation.getDiscriminant() == 0) {
+            System.out.println("The Equation has 2 nghiem bang nhau la X1=X2= " + quadraticEquation.getRoot1());
+        } else
             System.out.println("The Equation has no Roots");
     }
 }

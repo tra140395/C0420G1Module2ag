@@ -1,4 +1,4 @@
-package textbt;
+package testbt;
 
 public class PersonText {
     public static void main(String[] args) {

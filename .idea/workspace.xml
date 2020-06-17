@@ -2,44 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="336aae26-a30c-416c-a24f-1cfcd25c2ca9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/baitap/HelloFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/baitap/UngDungChuyenDoiTienTe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/baitap/UngDungDocSoThanhChu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/thuchanh/GiaiPtBac1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/thuchanh/HienThiNgayGioHeThong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/thuchanh/KhaiBaoVaSuDungBien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/thuchanh/TinhChiSoCanNangIBM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/thuchanh/TinhDtichHcn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/thuchanh/TinhSoNgayTrongThang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1introductioninjava/thuchanh/XacDinhNamNhuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2vonglap/baitap/HienThi20Snt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2vonglap/baitap/InRaCacSntNhoHon100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2vonglap/baitap/MenuInCacHinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2vonglap/thuchanh/ThietKeMenuChoUngDung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2vonglap/thuchanh/TimUCLN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2vonglap/thuchanh/TinhLaiSuatChoVay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2vonglap/thuchanh/XacDinhSnt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/DeleteTheElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/DemSoLanXuatHienCuaKyTuTrongChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/FindTheMaxValueOfTheElementInArray2chieu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/FindTheMinValueOfTheElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/GopMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/ThemPtVaoMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/TinhTongCacSoO1CotMaTran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/baitap/TinhTongCacSoODuowngCheoChinhCuaMaTran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/thuchanh/ChuyenDOiNhietDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/thuchanh/DaoNguocCacPhanTuCuaMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/thuchanh/FindMaxValueInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/thuchanh/FindTheIndexOfTheElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3mangvaphuongthuc/thuchanh/UngDungDemSOLuogSInhVienThiDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b4oop/baitap/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b4oop/baitap/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b4oop/baitap/callQuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b4oop/thuchanh/CallRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b4oop/thuchanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b4oop/baitap/Fanclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b4oop/vidu/CallPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b4oop/vidu/CallTestSvien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b4oop/vidu/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b4oop/vidu/TestSvien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b5access_modifier/baitap/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b5access_modifier/baitap/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b5access_modifier/thuchanh/AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b5access_modifier/thuchanh/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b5access_modifier/thuchanh/Static_Method_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b5access_modifier/thuchanh/TestCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b5access_modifier/thuchanh/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/baitap/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/baitap/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/baitap/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/baitap/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/baitap/Point2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/baitap/Point3d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/thuchanh/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/thuchanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/thuchanh/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6kethua/thuchanh/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/test/Geometric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b7abstractandinterface/thuchanh/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testbt/CallPublicPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testbt/TestPublicPrivate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/C0420G1_module2/b4oop/baitap/callQuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/C0420G1_module2/b4oop/baitap/callQuadraticEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/C0420G1_module2/textbt/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/C0420G1_module2/textbt/PersonText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b4oop/baitap/callQuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b4oop/baitap/callQuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textbt/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testbt/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textbt/PersonText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testbt/PersonText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +78,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.StopWatch">
-    <configuration name="CallRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b4oop.thuchanh.CallRectangle" />
+  <component name="RunManager" selected="Application.ComparableCircleTest">
+    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b7abstractandinterface.thuchanh.CircleComparatorTest" />
       <module name="C0420G1_module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b4oop.thuchanh.*" />
+          <option name="PATTERN" value="b7abstractandinterface.thuchanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textbt.Person" />
+    <configuration name="ComparableCircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b7abstractandinterface.thuchanh.ComparableCircleTest" />
       <module name="C0420G1_module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="textbt.*" />
+          <option name="PATTERN" value="b7abstractandinterface.thuchanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sapxep100sotrongStopwatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b4oop.baitap.Sapxep100sotrongStopwatch" />
+    <configuration name="Cylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6kethua.baitap.Cylinder" />
       <module name="C0420G1_module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b4oop.baitap.*" />
+          <option name="PATTERN" value="b6kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b4oop.baitap.StopWatch" />
+    <configuration name="MovablePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6kethua.baitap.MovablePoint" />
       <module name="C0420G1_module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b4oop.baitap.*" />
+          <option name="PATTERN" value="b6kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="callQuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b4oop.baitap.callQuadraticEquation" />
+    <configuration name="Point3d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6kethua.baitap.Point3d" />
       <module name="C0420G1_module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b4oop.baitap.*" />
+          <option name="PATTERN" value="b6kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.Sapxep100sotrongStopwatch" />
-        <item itemvalue="Application.callQuadraticEquation" />
-        <item itemvalue="Application.CallRectangle" />
-        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.ComparableCircleTest" />
+        <item itemvalue="Application.CircleComparatorTest" />
+        <item itemvalue="Application.MovablePoint" />
+        <item itemvalue="Application.Point3d" />
+        <item itemvalue="Application.Cylinder" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +183,15 @@
       <workItem from="1591701311787" duration="2395000" />
       <workItem from="1591757931926" duration="15454000" />
       <workItem from="1591791532032" duration="6178000" />
+      <workItem from="1591838829591" duration="8441000" />
+      <workItem from="1591881783468" duration="1398000" />
+      <workItem from="1591925733175" duration="12102000" />
+      <workItem from="1592059768023" duration="1307000" />
+      <workItem from="1592103437307" duration="8090000" />
+      <workItem from="1592186694181" duration="13982000" />
+      <workItem from="1592275984249" duration="9922000" />
+      <workItem from="1592317926102" duration="6626000" />
+      <workItem from="1592357327061" duration="15687000" />
     </task>
     <servers />
   </component>
@@ -187,30 +203,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="28" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1591069484785" />
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1591784492000">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1592386804476">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1591784492000" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1592386804476" />
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1591783130163">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591783130163" />
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1591805526260">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom" timestamp="1592387521595">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591805526260" />
-    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1591805526260">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592387521595" />
+    <state width="1323" height="218" key="GridCell.Tab.0.center" timestamp="1592387521594">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591805526260" />
-    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1591805526260">
+    <state width="1323" height="218" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1592387521594" />
+    <state width="1323" height="218" key="GridCell.Tab.0.left" timestamp="1592387521594">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591805526260" />
-    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1591805526260">
+    <state width="1323" height="218" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1592387521594" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right" timestamp="1592387521595">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591805526260" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1592387521595" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1591785333160">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -231,18 +247,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="490" y="92" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1591199227974" />
-    <state x="374" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1591838834487">
+    <state x="184" y="12" key="SettingsEditor" timestamp="1592059850982">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="374" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1591838834487" />
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1592059850982" />
+    <state x="374" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1592358321065">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="374" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1592358321065" />
     <state x="341" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591602436622">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="341" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1591602436622" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1591783213143">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1592213451216">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1591783213143" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1592213451216" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
